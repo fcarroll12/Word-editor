@@ -10,7 +10,7 @@ Steps required to install the project remotely include running npm i and npm sta
 
 ## Usage
 
-    ![alt text](assets/images/screenshot.png)
+    ![Alt text](assets/images/screenshot.png)
 
 ## Credits
 
